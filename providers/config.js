@@ -5,7 +5,8 @@ module.exports = [
         models: [
             { id: 'gemini-2.5-flash-native-audio-preview-12-2025', name: 'Gemini 2.5 Flash Native Audio' },
             { id: 'gemini-2.0-flash-exp', name: 'Gemini 2.0 Flash Exp' },
-            { id: 'gemini-2.0-flash', name: 'Gemini 2.0 Flash' }
+            { id: 'gemini-2.0-flash', name: 'Gemini 2.0 Flash' },
+            { id: 'gemini-3.1-flash-live-preview', name: 'Gemini 3.1 Flash Live Preview' }
         ],
         voices: [
             'Aoede', 'Puck', 'Charon', 'Kore', 'Fenrir'
